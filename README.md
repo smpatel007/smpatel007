@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Smit Patel</h1>
-<h3 align="center">AI-Augmented .NET Developer | Building Scalable Systems</h3>
+<h3 align="center">🚀 AI-Augmented Backend Engineer | .NET | Scalable Systems | Prompt Engineering</h3>
+
+<p align="center">
+  I build scalable, high-performance backend systems using .NET, Cloud, and AI-driven development workflows.
+</p>
 
 <p align="center">
   <a href="https://smit-patel-wqm3j2y.gamma.site/"><b>🌐 Portfolio</b></a> •
@@ -11,12 +15,41 @@
 
 ## 🧠 About Me
 
-💡 Software Engineer with **2.5+ years of experience** building scalable applications  
-⚙️ Specialized in **.NET, Cloud, and Clean Architecture**  
-🤖 Leveraging **AI tools to 2× development productivity**  
-📈 Focused on **performance, maintainability, and system design**
+💡 Software Engineer with **2.5+ years of experience**  
+⚙️ Specialized in **.NET, MSSQL, and scalable backend systems**  
+🤖 Working with **AI tools, prompt engineering, and automation workflows**  
+📈 Focused on **performance, clean architecture, and system design**
 
-> 🚀 *"I don’t just write code — I design scalable systems."*
+> 🚀 *"I don’t just write code — I design scalable systems and enhance them with AI."*
+
+---
+
+## 💼 What I Bring
+
+✔️ Scalable backend architecture  
+✔️ Clean Architecture & maintainable code  
+✔️ AI-driven development & automation  
+✔️ Prompt engineering for real-world use cases  
+✔️ Performance optimization mindset  
+
+---
+
+## 🤖 AI Engineering & Automation
+
+🚀 Actively working on **Vibe Coding, Prompt Engineering, and AI Tool Automation**
+
+✔️ Designing structured prompts for real-world development workflows  
+✔️ Using AI tools (Claude, ChatGPT, Gemini) for coding, debugging & optimization  
+✔️ Automating repetitive development tasks using AI  
+✔️ Improving development speed and efficiency using AI workflows  
+
+### 🧠 Tools & Platforms
+- Claude (AI-assisted coding & reasoning)  
+- ChatGPT / Gemini  
+- Prompt Engineering techniques  
+- AI-powered development workflows  
+
+> ⚡ I don’t just use AI — I integrate it into the development lifecycle.
 
 ---
 
@@ -30,9 +63,9 @@
 ### 🌐 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### 🧩 CMS
+### 🧩 CMS Platforms
 ![Kentico](https://img.shields.io/badge/Kentico-F05A22?style=for-the-badge)
 ![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=for-the-badge&logo=umbraco&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -43,32 +76,54 @@
 
 ---
 
-## 🧱 Architecture & Practices
+## 🧱 Architecture & Engineering Practices
 
 ✔️ Clean Architecture  
 ✔️ Microservices  
 ✔️ Domain-Driven Design (DDD)  
-✔️ CQRS  
-✔️ REST API Design  
+✔️ CQRS Pattern  
+✔️ RESTful APIs  
 ✔️ Scalable System Design  
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Work
 
-### ⭐ Clean Architecture Starter
-🚀 Production-ready template for scalable .NET applications  
-📦 Implements best practices: DDD, CQRS, layered architecture  
-
-👉 https://github.com/CodeWithSmitx/project-link
+### ⭐ Enterprise CMS Solutions
+🏢 Developed and maintained enterprise-grade CMS applications  
+⚙️ Worked with **Kentico, Umbraco, and WordPress**  
+📈 Delivered scalable and maintainable business solutions  
 
 ---
 
-### ⭐ AI Developer Toolkit
-🤖 Tools designed to **boost developer productivity using AI**  
-⚡ Automates repetitive coding tasks & optimizations  
+### ⭐ Scalable Backend Systems
+🚀 Built APIs and backend systems using **.NET & MSSQL**  
+⚡ Focused on performance, clean code, and maintainability  
+🧱 Applied **Clean Architecture and DDD principles**
 
-👉 https://github.com/CodeWithSmitx/project-link
+---
+
+### ⭐ AI-Augmented Development
+🤖 Integrated AI tools into development workflows  
+⚡ Improved development speed and efficiency  
+🧠 Used AI for debugging, optimization, and automation  
+
+---
+
+### ⭐ AI Code Assistant (Work in Progress)
+🤖 Building a prompt-based tool to generate backend code  
+⚡ Reduces development time using AI workflows  
+🧠 Combines prompt engineering with real-world coding  
+
+👉 (Add GitHub link when ready)
+
+---
+
+## 🔨 Currently Working On
+
+🚀 AI-powered developer tools  
+⚡ Advanced system design & microservices  
+📈 High-performance backend APIs  
 
 ---
 
@@ -81,29 +136,34 @@
 
 ---
 
-## 📚 Currently Learning
-
-📌 AI + Software Engineering Integration  
-📌 Advanced System Design  
-📌 High-Performance APIs & Scaling  
-
----
-
 ## 🎯 2026 Goals
 
-✅ Build high-impact SaaS product  
-✅ Contribute to open-source projects  
+✅ Build a real-world SaaS product  
+✅ Become a top-tier AI-Augmented Engineer  
 ✅ Master distributed systems  
-✅ Grow as a top 1% AI Engineer  
+✅ Contribute to impactful open-source projects  
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
+  <a href="https://smit-patel-wqm3j2y.gamma.site/">
+    <img src="https://skillicons.dev/icons?i=web" />
+  </a>
   <a href="https://in.linkedin.com/in/smit-patel-9b39541b2">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="mailto:you@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/CodeWithSmitx">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+<p align="center">
+  💬 Open to opportunities, collaborations, and freelance work  
 </p>
 
 ---
