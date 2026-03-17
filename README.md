@@ -19,7 +19,7 @@
 ⚙️ Specialized in **.NET, MSSQL, and scalable backend systems**  
 🤖 Working with **AI tools, prompt engineering, and automation workflows**  
 📈 Focused on **performance, clean architecture, and system design**
-
+💡 I enjoy solving complex backend problems and exploring how AI improves developer workflows.
 > 🚀 *"I don’t just write code — I design scalable systems and enhance them with AI."*
 
 ---
@@ -55,24 +55,28 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Backend & Core
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### 💻 Core
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge)
+
+### ⚙️ Backend & Tools
+![REST API](https://img.shields.io/badge/API-005571?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 
 ### 🌐 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
 
-### 🧩 CMS Platforms
-![Kentico](https://img.shields.io/badge/Kentico-F05A22?style=for-the-badge)
-![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=for-the-badge&logo=umbraco&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+### 🧪 Testing
+![xUnit](https://img.shields.io/badge/xUnit-000000?style=for-the-badge)
+![NUnit](https://img.shields.io/badge/NUnit-25A162?style=for-the-badge)
 
-### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🤖 AI
+![AI](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 
 ---
 
@@ -119,22 +123,28 @@
 
 ---
 
-## 🔨 Currently Working On
+## 🔨 Current Focus
 
-🚀 AI-powered developer tools  
-⚡ Advanced system design & microservices  
-📈 High-performance backend APIs  
+🚀 Building AI-powered developer tools  
+🤖 Exploring prompt engineering & automation  
+⚡ Designing scalable backend systems  
 
 ---
 
-## 📊 GitHub Stats
+## ☕ Support Me
+
+If you like my work or find it helpful, consider supporting me 🙌  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithSmitx&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithSmitx&theme=tokyonight" />
+  <a href="https://buymeacoffee.com/smitxpatel">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee">
+  </a>
 </p>
 
----
+<p align="center">
+  💡 Every coffee helps me build more AI tools and share useful content.
+</p>
+
 
 ## 🎯 2026 Goals
 
@@ -163,7 +173,8 @@
 </p>
 
 <p align="center">
-  💬 Open to opportunities, collaborations, and freelance work  
+  💬 Open to backend, AI, and system design opportunities  
+  📩 Let’s collaborate or build something impactful  
 </p>
 
 ---
